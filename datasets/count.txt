@@ -1,0 +1,7 @@
+Ceci est un fichier qui est censé contenir plusieurs lignes
+C'est fascinant les choses possibles quand on sait programmer en Python
+Python est ce langage qui est devenu depuis un moment le langage le plus utilisé
+au monde
+Python est beaucoup utilisé en intelligence artificielle et dans beaucoup de domaines dont on ne parlera pas dans ce fichier
+Cette formation sur Python est censé vous apprendre les bases afin que vous évoluez très rapidement plus tard.
+Si vous avez aimé ce bootcamp, parlez-en à des proches.
