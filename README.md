@@ -1,10 +1,12 @@
 # Bootcamp Analyse de données avec Python 🐍 📉
 
-Ce dépôt contient le code de la 1ère édition du Bootcamp **Analyse de Données avec Python** enseigné par **Kevin Degila** .
+Ce dépôt contient le code de la 1ère édition du Bootcamp **Analyse de Données avec Python** enseigné par **[Kevin Degila](https://twitter.com/kevindegila)** .
 
 Ce bootcamp vous apprend les bases du langage de programmation Python🐍 et l'Analyse de données 📉, de l'import à la visualisation.
 
-Nous utilisons **Google Colab** dans ce bootcamp. Accédez à tous les notebooks sur Colab en cliquant ici : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevindegila/data-analyst/)
+Nous utilisons **Google Colab** dans ce bootcamp. Accédez à tous les notebooks sur Colab en cliquant ici : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevindegila/data-analyst/).
+
+Les vidéos de ce bootcamp seront disponible gratuitement sur la chaîne YouTube **Kevin Degila** : https://www.youtube.com/channel/UC5tyoKrTlhBSM9NkQYW1RzA
 
 ## A la fin de ce bootcamp, vous serez en mesure de :
 * Importer des données sous format csv, sql json, html et autres pour de l'analyse
@@ -77,9 +79,9 @@ N'hésitez pas à poser des questions et à répondre quand vous avez les répon
 
 ## Ressources supplémentaires 📚
 
-Site pour apprendre et s'exercer en Python : https://www.w3schools.com/python/
-Visualiser l'éxecution de votre code Python avec Python Tutor : http://pythontutor.com/
-Livre gratuit pour apprendre Numpy, Pandas, Matplotlib et Seaborn : https://jakevdp.github.io/PythonDataScienceHandbook/
+* Site pour apprendre et s'exercer en Python : https://www.w3schools.com/python/
+* Visualiser l'éxecution de votre code Python avec Python Tutor : http://pythontutor.com/
+* Livre gratuit pour apprendre Numpy, Pandas, Matplotlib et Seaborn : https://jakevdp.github.io/PythonDataScienceHandbook/
 
 
 ## Site pour télécharger des données 📖
@@ -91,6 +93,9 @@ Livre gratuit pour apprendre Numpy, Pandas, Matplotlib et Seaborn : https://jake
 * BuzzFeed News : https://github.com/BuzzFeedNews
 * Banque mondiale : https://data.worldbank.org/
 
+## Soutenir ce bootcamp 🙌
+Vous pouvez soutenir ce bootcamp à travers le partage à des personnes qui en profiteraient et en faisant un don à https://paypal.me/kevindegila .
+Les fonds recueillies permettront d'augmenter la qualité des vidéos qui accompagnent le code.
 	
-## Me contacter 
+## Me contacter 📩
 Vous pouvez m'envoyer un mail à kayveendegila@gmail.com
