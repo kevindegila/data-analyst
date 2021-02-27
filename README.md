@@ -82,6 +82,7 @@ N'hésitez pas à poser des questions et à répondre quand vous avez les répon
 * Site pour apprendre et s'exercer en Python : https://www.w3schools.com/python/
 * Visualiser l'éxecution de votre code Python avec Python Tutor : http://pythontutor.com/
 * Livre gratuit pour apprendre Numpy, Pandas, Matplotlib et Seaborn : https://jakevdp.github.io/PythonDataScienceHandbook/
+* Site pour s'exercer en Python en s'amusant
 
 
 ## Site pour télécharger des données 📖
