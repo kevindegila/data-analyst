@@ -17,8 +17,8 @@ Les vidéos de ce bootcamp seront disponibles gratuitement sur la chaîne YouTub
 ## 📜 Plan du bootcamp
 ### Module 0:  Introduction à Jupyter notebook 📓
 
-- Coder dans le cloud avec Google Colab
-- Installer Jupyter notebook en local
+- Coder dans le cloud avec Google Colab [Lien Vidéo](https://youtu.be/n8STuQPOKs8)
+- Installer Jupyter notebook en local [Lien Vidéo](https://youtu.be/QB0I5KGL1CM)
 
 ### Module 1 : Les bases de Python 🐍 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevindegila/data-analyst/blob/main/01_Les_Bases_de_Python.ipynb)
 
