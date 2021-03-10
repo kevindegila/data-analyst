@@ -58,9 +58,9 @@ Les vidéos de ce bootcamp seront disponible gratuitement sur la chaîne YouTube
 
 ### Module 5 : Projet Analyse de données ⚒️
 
-- Analyse de données de vente
-- Analyse des données du Covid 19
-- En cours ...
+- Projet 1 : Analyse des données du Titanic
+- Projet 2: Analyse de données de vente d'un supermarché sur une année
+- Projet 3 : Analyse des données du Covid 19 dans le monde
 
 
 ## Format du bootcamp 🛡️
