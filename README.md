@@ -4,7 +4,7 @@ Ce dépôt contient le code de la 1ère édition du Bootcamp **Analyse de Donné
 
 Ce bootcamp vous apprend les bases du langage de programmation Python🐍 et l'Analyse de données 📉, de l'import à la visualisation.
 
-Nous utilisons **Google Colab** dans ce bootcamp. Accédez à tous les notebooks sur Colab en cliquant ici : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevindegila/data-analyst/).
+Nous utilisons **Google Colab** dans ce bootcamp. Accédez à tous les notebooks sur Colab en cliquant ici : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevindegila/data-analyst/). Certains notebooks sont encore en cours d'écriture.
 
 Les vidéos de ce bootcamp seront disponibles gratuitement sur la chaîne YouTube **Kevin Degila** : https://www.youtube.com/c/KevinDegila
 
@@ -17,8 +17,8 @@ Les vidéos de ce bootcamp seront disponibles gratuitement sur la chaîne YouTub
 ## 📜 Plan du bootcamp
 ### Module 0:  Introduction à Jupyter notebook 📓
 
-- Coder dans le cloud avec Google Colab [Lien Vidéo](https://youtu.be/n8STuQPOKs8)
-- Installer Jupyter notebook en local [Lien Vidéo](https://youtu.be/QB0I5KGL1CM)
+- Coder dans le cloud avec Google Colab  : [Lien Vidéo](https://youtu.be/n8STuQPOKs8)
+- Installer Jupyter notebook en local : [Lien Vidéo](https://youtu.be/QB0I5KGL1CM)
 
 ### Module 1 : Les bases de Python 🐍 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevindegila/data-analyst/blob/main/01_Les_Bases_de_Python.ipynb)
 
@@ -67,8 +67,8 @@ Les vidéos de ce bootcamp seront disponibles gratuitement sur la chaîne YouTub
 
 * Chaque module est accompagné d'un ou plusieurs notebooks explicatifs 
 * Chaque sous-module est accompagné d'exercices pour pratiquer les notions apprises
-* On fera des plusieurs erreurs lors des séances live ou vidéos afin d'apprendre comment chercher des solutions à chaque erreur
-* Ce bootcamp n'enseignera pas tous les détails nécéssaires. Les apprenants seront appélés à complèter quelques notions par eux-mêmes grâce aux différentes ressources partagées. Savoir apprendre de nouvelles notions tout seul est une qualité chez un data analyste
+* On fera plusieurs erreurs lors des séances live ou vidéos afin d'apprendre comment chercher des solutions à chaque erreur
+* Ce bootcamp n'enseignera pas tout ce qu'il faut mais le strict nécéssaire. Les apprenants seront appélés à complèter quelques notions par eux-mêmes grâce aux différentes ressources partagées. Savoir apprendre de nouvelles notions tout seul est une qualité chez un data analyst.
 
 
 ## Apprendre en Communauté 🤝
@@ -82,7 +82,7 @@ N'hésitez pas à poser des questions et à répondre quand vous avez les répon
 * Site pour apprendre et s'exercer en Python : https://www.w3schools.com/python/
 * Visualiser l'éxecution de votre code Python avec Python Tutor : http://pythontutor.com/
 * Livre gratuit pour apprendre Numpy, Pandas, Matplotlib et Seaborn : https://jakevdp.github.io/PythonDataScienceHandbook/
-* Site pour s'exercer en Python en s'amusant
+* Site pour s'exercer en Python en s'amusant : https://www.codingame.com/start
 
 
 ## Site pour télécharger des données 📖
